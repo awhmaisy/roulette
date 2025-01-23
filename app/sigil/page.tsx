@@ -12,7 +12,7 @@ export default function Sigil() {
             <div className="w-[300px]">
                 <div className="text-left leading-none">
                     <p>
-                        Okay surprise pencil meets paper. We won't let Austin Babbitt get away with this. We are coming for you.
+                        Okay surprise pencil meets paper. We won&apos;t let Austin Babbitt get away with this. We are coming for you.
                     </p>
                     <br />
                     <p>
