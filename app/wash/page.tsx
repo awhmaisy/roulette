@@ -1,8 +1,9 @@
 "use client";
 
+import Image from 'next/image';
 import Link from 'next/link';
 
-export default function Sleep() {
+export default function Wash() {
     return (
         <div className="h-screen w-screen flex items-center justify-center bg-white font-['Times_New_Roman'] overflow-hidden">
             <div className="absolute top-4 left-1/2 transform -translate-x-1/2 text-center">
@@ -11,8 +12,15 @@ export default function Sleep() {
             <div className="w-[300px]">
                 <div className="text-left leading-none">
                     <p>
-                        Eat it
+                        Rinse and repeat.
                     </p>
+                    <Image
+                    src="/WASH.png"
+                    alt="Circle Background"
+                    width={300}
+                    height={400}
+                    className="pb-14"
+                />
                 </div>
             </div>
         </div>

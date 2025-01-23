@@ -8,7 +8,7 @@ export default function Home() {
     { text: "Love, Mei", href: "/about" },
     { text: "Gunpoint", href: "/gunpoint" },
     { text: "Sigil", href: "/sigil" },
-    { text: "Code Monkey", href: "/pay" },
+    { text: "Wash", href: "/wash" },
     { text: "Bedtime", href: "/sleep" }
   ];
 
