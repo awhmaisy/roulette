@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Better Luck Next Time",
+  title: ["Better Luck Next Trade", "GLHF from PM"],
   description: "GLHF from PM",
   icons: {
     icon: "/favicon.ico",
