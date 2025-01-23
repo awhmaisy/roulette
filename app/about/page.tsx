@@ -12,7 +12,7 @@ export default function About() {
             <div className="w-[300px]">
                 <div className="text-left leading-none">
                     <p>
-                        12 hoodies will be produced for the Azura dev team. If you are a civilian, you&apos;ll be able to purchase market-maker goods eventually. That is, if you beat everyone else to the 200-unit limited run.
+                        12 hoodies will be produced for the Azura dev team. If you are a civilian, you&apos;ll be able to purchase market-maker goods eventually. That is, if you beat everyone to the 200-unit limited run.
                     </p>
                     <br />
                     <p>
