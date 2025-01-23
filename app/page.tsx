@@ -7,8 +7,8 @@ export default function Home() {
   const menuItems = [
     { text: "Love, Mei", href: "/about" },
     { text: "Gunpoint", href: "/gunpoint" },
-    { text: "Error-A", href: "/archive" },
-    { text: "Error-B", href: "/pay" },
+    { text: "Sigil", href: "/sigil" },
+    { text: "Code Monkey", href: "/pay" },
     { text: "Bedtime", href: "/sleep" }
   ];
 
